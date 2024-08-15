@@ -5,8 +5,7 @@ public class main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		game tictac= new game();
-		tictac.gameEngine();
+		System.out.println("test jenkins");
 
 	}
 
